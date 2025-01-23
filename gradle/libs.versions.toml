@@ -4,7 +4,7 @@ kotlin = "1.9.25"
 drewHamilton-poko = "0.15.3"
 ksp = "1.9.24-1.0.20"
 
-benManes-versions = "0.51.0"
+benManes-versions = "0.52.0"
 buildconfig = "5.5.1"
 dependencyAnalysis = "2.7.0"
 detekt = "1.23.6"
