@@ -1,8 +1,8 @@
 [versions]
 
 kotlin = "1.9.25"
-drewHamilton-poko = "0.15.3"
-ksp = "1.9.24-1.0.20"
+drewHamilton-poko = "0.17.0"
+ksp = "1.9.25-1.0.20"
 
 benManes-versions = "0.51.0"
 buildconfig = "5.5.1"
